@@ -2,7 +2,7 @@ package javaproject1;
 
 import java.util.Scanner;
 /**
- * First java project done from scratch on java
+ * First java project done from scratch in java
  * @author Wasim Nasser
  */
 public class vowels {
