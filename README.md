@@ -1,4 +1,4 @@
-# VowelsJava
+# Vowels-Java
 
 This is the first project I completed from scratch using the Java programming language.
 
